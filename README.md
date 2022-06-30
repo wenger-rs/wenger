@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/ngr-tc/wenger/master/wenger.jpg" alt="Wenger">
+
 # Wenger
 
 Wenger is an asynchronous Rust networking "Swiss Army Knife" that makes it easy to build protocols, application clients, and application servers.
