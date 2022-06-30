@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ngr-tc/wenger/master/wenger.jpg" alt="Wenger">
+<img src="./wenger.jpg" alt="Wenger">
 
 # Wenger
 
