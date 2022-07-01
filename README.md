@@ -1,4 +1,4 @@
-<img src="./wenger.jpg" alt="Wenger">
+<img src="./res/wenger.jpg" alt="Wenger">
 
 # Wenger
 
