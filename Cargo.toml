@@ -1,8 +1,8 @@
 [package]
 name = "wenger"
-version = "0.0.1"
+version = "0.0.2"
 edition = "2021"
-authors = ["Rain Liu <y@liu.x>"]
+authors = ["Rain Liu <y@liu.mx>"]
 description = "Wenger — an asynchronous Rust networking and RPC library. Wenger is a \"Swiss Army Knife\" that makes it easy to build protocols, application clients, and application servers."
 license = "MIT/Apache-2.0"
 documentation = "https://docs.rs/wenger"
