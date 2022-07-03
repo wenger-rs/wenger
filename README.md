@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ngr-tc/wenger/main/res/wenger.jpg" alt="Wenger">
+<img src="https://raw.githubusercontent.com/retty-io/wenger/main/res/wenger.jpg" alt="Wenger">
 
 # Wenger
 
