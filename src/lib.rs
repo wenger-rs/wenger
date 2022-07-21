@@ -1,8 +1,6 @@
-#[cfg(test)]
-mod tests {
-    #[test]
-    fn it_works() {
-        let result = 2 + 2;
-        assert_eq!(result, 4);
-    }
-}
+#![warn(rust_2018_idioms)]
+#![allow(dead_code)]
+
+pub mod bootstrap;
+pub mod channel;
+pub mod codec;
