@@ -85,7 +85,7 @@ where
         //TODO:
         if ctx.is_none() {
             self.next_in = None;
-            return;
+            //return;
         }
         //self.next_in = ctx;
     }
@@ -324,7 +324,7 @@ where
         //TODO:
         if ctx.is_none() {
             self.ctx = None;
-            return;
+            //return;
         }
     }
 
